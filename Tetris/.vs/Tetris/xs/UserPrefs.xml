@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D2BFFF02-D087-DB1A-C7FE-6538A965A290}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ExporterMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Tetrimino.cs" Line="50" Column="1" />
+      <File FileName="Assets/Scripts/I.cs" Line="60" Column="66" />
+      <File FileName="Assets/Scripts/GameMaster.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/ITetrimino.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/J.cs" Line="82" Column="15" />
+      <File FileName="Assets/Scripts/L.cs" Line="80" Column="15" />
+      <File FileName="Assets/Scripts/O.cs" Line="80" Column="15" />
+      <File FileName="Assets/Scripts/S.cs" Line="81" Column="15" />
+      <File FileName="Assets/Scripts/Z.cs" Line="80" Column="15" />
+      <File FileName="Assets/Scripts/T.cs" Line="81" Column="15" />
+      <File FileName="Assets/Scripts/GameArea.cs" Line="7" Column="4" />
+      <File FileName="Assets/Scripts/SceneSwitcher.cs" Line="8" Column="44" />
+      <File FileName="Assets/Scripts/ExporterMenu.cs" Line="113" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tetris" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ExporterMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ad55254-3fd8-48b7-b1bc-3fdc678e2c43" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
