@@ -245,18 +245,18 @@ public class GameMaster : MonoBehaviour
             speed = 0.8f;
         if (level == 3)
             speed = 0.6f;
-        if (level == 4)
-            speed = 0.5f;
-        if (level == 5)
-            speed = 0.4f;
-        if (level == 6)
-            speed = 0.3f;
-        if (level == 7)
-            speed = 0.2f;
-        if (level == 8)
-            speed = 0.1f;
-        if (level > 8)
-            speed = 0.1f;
+        // if (level == 4)
+        //     speed = 0.5f;
+        // if (level == 5)
+        //     speed = 0.4f;
+        // if (level == 6)
+        //     speed = 0.3f;
+        // if (level == 7)
+        //     speed = 0.2f;
+        // if (level == 8)
+        //     speed = 0.1f;
+        // if (level > 8)
+        //     speed = 0.1f;
     }
 
     public void GameOver()
