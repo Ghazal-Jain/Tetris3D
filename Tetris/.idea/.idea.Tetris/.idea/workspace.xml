@@ -2,824 +2,128 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcba7439-65ac-4f97-9a60-0f75d1028ee7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tetris/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tetris/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Tetris-05.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Tetris-05.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Tetris-07.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Tetris-07.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameOver_WIN.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameOver_WIN.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GamePlay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GamePlay.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameMaster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameMaster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/01/01cb5347e752c90389ae3218044fad6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/06/063bda382c438c3bb0068355dfa68ee4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/52/52999f4c64892e6956b7c8f6504d55ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7b/7b60f88c16c0156e1b31b4746164eb4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/84/8435915cc09abc50bba801a9b8227c5b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a6/a69ef0165fe8818faa4df7e4157a4d02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d3/d350fb37ab2d315cebbe434500e4353e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ee/ee7c7f24d0976d9a17301858f84225a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/CHANGELOG.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Editor/UnityEditor.Advertisements.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Editor/UnityEditor.Advertisements.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/LICENSE.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/Android.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/Android/UnityAds.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/Android/UnityAds.aar.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSInAppPurchaseMetaData.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSInAppPurchaseMetaData.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSJsonStorage.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSJsonStorage.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSMediationMetaData.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSMediationMetaData.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSMetaData.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSMetaData.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSPlayerMetaData.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSPlayerMetaData.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSPurchasing.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UADSPurchasing.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UnityAds.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UnityAds.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UnityAdsExtended.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Headers/UnityAdsExtended.h.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Info.plist.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Modules.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Modules/module.modulemap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/Modules/module.modulemap.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/UnityAds" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAds.framework/UnityAds.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAdsUnityWrapper.mm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/Plugins/iOS/UnityAdsUnityWrapper.mm.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Android.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Android.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Editor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Editor.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.iOS.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.iOS.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ads@2.3.1/package.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/CHANGELOG.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyIcon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyIcon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/Unity.Analytics.DataPrivacy.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/Unity.Analytics.DataPrivacy.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Editor/AnalyticsEventTracker icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Editor/AnalyticsEventTracker icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/License.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/License.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/.tests.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AchievementStepTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AchievementStepTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AchievementUnlockedTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AchievementUnlockedTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdCompleteTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdCompleteTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdOfferTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdOfferTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdSkipTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdSkipTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdStartTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AdStartTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AnalyticsEventTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AnalyticsEventTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ChatMessageSentTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ChatMessageSentTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/CutsceneSkipTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/CutsceneSkipTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/CutsceneStartTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/CutsceneStartTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/FirstInteractionTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/FirstInteractionTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/GameOverTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/GameOverTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/GameStartTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/GameStartTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/IAPTransactionTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/IAPTransactionTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ItemAcquiredTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ItemAcquiredTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ItemSpentTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ItemSpentTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelCompleteTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelCompleteTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelFailTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelFailTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelQuitTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelQuitTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelSkipTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelSkipTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelStartTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelStartTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelUpTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/LevelUpTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/PostAdActionTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/PostAdActionTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/PushNotificationClickTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/PushNotificationClickTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/PushNotificationEnableTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/PushNotificationEnableTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ScreenVisitTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/ScreenVisitTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/SocialShareAcceptTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/SocialShareAcceptTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/SocialShareTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/SocialShareTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/StoreItemClickTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/StoreItemClickTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/StoreOpenedTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/StoreOpenedTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialCompleteTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialCompleteTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialSkipTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialSkipTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialStartTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialStartTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialStepTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/TutorialStepTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/Unity.Analytics.StandardEvents.EditorTests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/Unity.Analytics.StandardEvents.EditorTests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/UserSignupTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/UserSignupTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Runtime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Runtime/DataPrivacy.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Runtime/DataPrivacy/JsonSerialization.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Runtime/DataPrivacy/JsonSerialization.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Runtime/DataPrivacy/Unity.Analytics.DataPrivacy.Tests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Runtime/DataPrivacy/Unity.Analytics.DataPrivacy.Tests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/package.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/CHANGELOG.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/DEPENDENCIES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/DEPENDENCIES.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Bootstrap.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Bootstrap.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabAnalytics.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabAnalytics.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabHistoryWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabHistoryWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Presenters.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Presenters/CollabHistoryPresenter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Presenters/CollabHistoryPresenter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/BuildStatusButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/BuildStatusButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDown.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDown.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDownItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDownItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItemFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItemFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryRevisionLine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryRevisionLine.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/HistoryProgressSpinner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/HistoryProgressSpinner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/ICollabHistoryItemFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/ICollabHistoryItemFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/PagedListView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/PagedListView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/StatusView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/StatusView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryCommon.uss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryCommon.uss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryDark.uss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryDark.uss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryLight.uss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryLight.uss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Unity.CollabProxy.Editor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Unity.CollabProxy.Editor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/LICENSE.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/HistoryTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/HistoryTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/Unity.CollabProxy.EditorTests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/Unity.CollabProxy.EditorTests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/package.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/CHANGELOG.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Dark.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Dark/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Dark/download.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Dark/error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Dark/error.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Dark/loading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Dark/loading.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Light.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Light/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Light/download.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Light/error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Light/error.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Light/loading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Images/Light/loading.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Dark.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Dark.scss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Dark.uss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Dark.uss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Light.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Light.scss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Light.uss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/Main_Light.uss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/_common.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Styles/_common.scss.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/Alert.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/Alert.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageAddFromUrlField.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageAddFromUrlField.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageDetails.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageDetails.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageGroup.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageGroup.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageItem.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageItem.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageList.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageList.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageManagerToolbar.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageManagerToolbar.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageManagerWindow.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageManagerWindow.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageSearchToolbar.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageSearchToolbar.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageStatusBar.uxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/PackageStatusBar.uxml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UIElements.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UIElements.xsd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UnityEditor.Experimental.UIElements.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UnityEditor.Experimental.UIElements.xsd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UnityEditor.PackageManager.UI.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UnityEditor.PackageManager.UI.xsd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UnityEngine.Experimental.UIElements.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Resources/Templates/UIElementsSchema/UnityEngine.Experimental.UIElements.xsd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/External.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/External/SemVersion.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/External/SemVersion.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/External/SemVersionExtension.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/External/SemVersionExtension.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/ApplicationUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/ApplicationUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/OperationSignal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/OperationSignal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/Resources.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/Resources.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/ThreadedDelay.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Common/ThreadedDelay.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IAddOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IAddOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IBaseOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IBaseOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IListOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IListOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IOperationFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IOperationFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IRemoveOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/IRemoveOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/ISearchOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Interfaces/ISearchOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/OperationFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/OperationFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/Package.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/Package.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageAssetPostprocessor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageAssetPostprocessor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageCollection.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageCollection.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageError.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageError.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageGroupOrigins.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageGroupOrigins.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageInfoListExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageInfoListExtensions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageJsonHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageJsonHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageListExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageListExtensions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageOrigin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageOrigin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageSearchFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageSearchFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageTag.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Packages/PackageTag.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmAddOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmAddOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmBaseOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmBaseOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmListOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmListOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmOperationFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmOperationFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmRemoveOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmRemoveOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmSearchOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/Services/Upm/UpmSearchOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/Alert.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/Alert.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/LoadingSpinner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/LoadingSpinner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/PopupField.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/PopupField.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/UIUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/UIUtils.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/VersionItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Common/VersionItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Interfaces.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Interfaces/IPackageManagerExtension.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/Interfaces/IPackageManagerExtension.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageAddFromUrlField.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageAddFromUrlField.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageDetails.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageDetails.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageFiltering.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageFiltering.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageGroup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageGroup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageList.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageList.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerExtensions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerPrefs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerPrefs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerToolbar.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerToolbar.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageManagerWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageSearchToolbar.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageSearchToolbar.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageStatusBar.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Sources/UI/PackageStatusBar.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Unity.PackageManagerUI.Editor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Editor/Unity.PackageManagerUI.Editor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/LICENSE.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Common.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Common/PackageSets.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Common/PackageSets.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Common/UITests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Common/UITests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockAddOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockAddOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockListOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockListOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockRemoveOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockRemoveOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockSearchOperation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Mock/MockSearchOperation.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/MockOperationFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/MockOperationFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageBaseTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageBaseTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageCollectionTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageCollectionTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageInfoTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageInfoTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageSearchTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageSearchTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Services/Packages/PackageTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/UI/PackageDetailsTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/UI/PackageDetailsTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/UI/PackageManagerWindowTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/UI/PackageManagerWindowTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Unity.PackageManagerUI.EditorTests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Tests/Editor/Unity.PackageManagerUI.EditorTests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Third Party Notices.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/Third Party Notices.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.package-manager-ui@2.0.8/package.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/CHANGELOG.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation/IAP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation/IAP.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/License.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/License.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.mdb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/package.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/.gitlab-ci.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/CHANGELOG.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Dropdown Icon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Dropdown Icon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Font Asset Icon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Font Asset Icon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Input Field Icon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Input Field Icon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Sprite Asset Icon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Sprite Asset Icon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Text Component Icon.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Gizmos/TMP - Text Component Icon.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Shaders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Shaders/TMP_Properties.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Shaders/TMP_Properties.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Shaders/TMP_SDF Internal SSD.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Shaders/TMP_SDF Internal SSD.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/SectionHeader_Dark.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/SectionHeader_Dark.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/SectionHeader_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/SectionHeader_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBaseLine.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBaseLine.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBaseLine_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBaseLine_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBottom.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBottom.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBottom_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignBottom_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCapLine.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCapLine.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCapLine_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCapLine_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenter.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenter.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenterGeo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenterGeo.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenter_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignCenter_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignFlush.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignFlush.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignFlush_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignFlush_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignJustified.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignJustified.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignJustified_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignJustified_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignLeft.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignLeft.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignLeft_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignLeft_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMidLine.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMidLine.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMiddle.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMiddle.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMiddle_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMiddle_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMidline_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignMidline_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignRight.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignRight.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignRight_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignRight_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignTop.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignTop.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignTop_Light.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Editor Resources/Textures/btn_AlignTop_Light.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/LICENSE.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Package Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Package Resources/TMP Essential Resources.unitypackage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Package Resources/TMP Essential Resources.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Package Resources/TMP Examples &amp; Extras.unitypackage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Package Resources/TMP Examples &amp; Extras.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/PackageConversionData.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/PackageConversionData.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/PackageConversionData_Assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/PackageConversionData_Assets.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/DropdownOptionListDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/DropdownOptionListDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/GlyphInfoDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/GlyphInfoDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/GlyphMetricsPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/GlyphMetricsPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/GlyphRectPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/GlyphRectPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_BaseEditorPanel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_BaseEditorPanel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_BaseShaderGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_BaseShaderGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_BitmapShaderGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_BitmapShaderGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_CharacterPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_CharacterPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ColorGradientAssetMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ColorGradientAssetMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ColorGradientEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ColorGradientEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_DropdownEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_DropdownEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_EditorCoroutine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_EditorCoroutine.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_EditorPanel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_EditorPanel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_EditorUtility.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_EditorUtility.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_FontAssetEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_FontAssetEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_FontAsset_CreationMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_FontAsset_CreationMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_GlyphPairAdjustmentRecordPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_GlyphPairAdjustmentRecordPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_GlyphPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_GlyphPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_InputFieldEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_InputFieldEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_MeshRendererEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_MeshRendererEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_PackageUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_PackageUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_PostBuildProcessHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_PostBuildProcessHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ProjectTextSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ProjectTextSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ResourcesLoader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_ResourcesLoader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SDFShaderGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SDFShaderGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SerializedPropertyHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SerializedPropertyHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SettingsEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SettingsEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteAssetEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteAssetEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteAssetImporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteAssetImporter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteAssetMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteAssetMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteCharacterPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteCharacterPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteGlyphPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SpriteGlyphPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_StyleAssetMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_StyleAssetMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_StyleSheetEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_StyleSheetEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SubMeshUI_Editor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SubMeshUI_Editor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SubMesh_Editor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_SubMesh_Editor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_TextAlignmentDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_TextAlignmentDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_UIStyleManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_UIStyleManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_UiEditorPanel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMP_UiEditorPanel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_ContextMenus.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_ContextMenus.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_CreateObjectMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_CreateObjectMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_EditorShaderUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_EditorShaderUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_FontAssetCreatorWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_FontAssetCreatorWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_FontPlugin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_FontPlugin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_SortingLayerHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_SortingLayerHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_TextContainerEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_TextContainerEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_TexturePostProcessor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/TMPro_TexturePostProcessor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/Unity.TextMeshPro.Editor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Editor/Unity.TextMeshPro.Editor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/AssemblyInfo.cs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/AssemblyInfo.cs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/FastAction.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/FastAction.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/MaterialReferenceManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/MaterialReferenceManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Asset.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Asset.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Character.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Character.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_CharacterInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_CharacterInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ColorGradient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ColorGradient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_CoroutineTween.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_CoroutineTween.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_DefaultControls.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_DefaultControls.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Dropdown.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Dropdown.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_EditorResourceManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_EditorResourceManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontAsset.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontAsset.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontAssetCommon.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontAssetCommon.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontAssetUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontAssetUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontFeatureTable.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontFeatureTable.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontFeaturesCommon.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_FontFeaturesCommon.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_InputField.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_InputField.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_InputValidator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_InputValidator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_LineInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_LineInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ListPool.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ListPool.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_MaterialManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_MaterialManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_MeshInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_MeshInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ObjectPool.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ObjectPool.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_PackageResourceImporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_PackageResourceImporter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_RichTextTagStack.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_RichTextTagStack.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_RichTextTagsCommon.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_RichTextTagsCommon.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ScrollbarEventHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ScrollbarEventHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SelectionCaret.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SelectionCaret.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Settings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Settings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ShaderUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_ShaderUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Sprite.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Sprite.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteAnimator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteAnimator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteAsset.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteAsset.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteAssetImportFormats.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteAssetImportFormats.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteCharacter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteCharacter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteGlyph.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SpriteGlyph.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Style.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Style.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_StyleSheet.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_StyleSheet.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SubMesh.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SubMesh.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SubMeshUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_SubMeshUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Text.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_Text.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextElement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextElement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextElement_Legacy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextElement_Legacy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextParsingUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextParsingUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_TextUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_UpdateManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_UpdateManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_UpdateRegistery.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_UpdateRegistery.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_EventManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_EventManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_ExtensionMethods.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_ExtensionMethods.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_MeshUtilities.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_MeshUtilities.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_Private.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_Private.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_UGUI_Private.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMPro_UGUI_Private.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TextContainer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TextContainer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TextMeshPro.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TextMeshPro.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TextMeshProUGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TextMeshProUGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/Unity.TextMeshPro.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/Unity.TextMeshPro.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Editor/TMP_EditorTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Editor/TMP_EditorTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Editor/Unity.TextMeshPro.Editor.Tests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Editor/Unity.TextMeshPro.Editor.Tests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Runtime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Runtime/TMP_RuntimeTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Runtime/TMP_RuntimeTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Runtime/Unity.TextMeshPro.Tests.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/Tests/Runtime/Unity.TextMeshPro.Tests.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@1.4.1/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tetris.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Tetris.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/a2/a222a605f2d4748bf6cac09be1e69d79.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/a2/a222a605f2d4748bf6cac09be1e69d79.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/62/622598d26514516bf8189c318aadb9f0.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/62/622598d26514516bf8189c318aadb9f0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Analytics.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Assembly-CSharp.dll.hash" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/Assembly-CSharp.dll.hash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/CompilationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/CompilationLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Purchasing.Common.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.2D.Sprite.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.2D.Tilemap.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.Analytics.DataPrivacy.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.CollabProxy.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.PlasticSCM.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.Rider.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.TextMeshPro.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.TextMeshPro.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.Timeline.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.Timeline.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.VSCode.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/Unity.VisualStudio.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEditor.Purchasing.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEditor.SpatialTracking.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEditor.TestRunner.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEditor.UI.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEditor.XR.LegacyInputHelpers.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Advertisements.Editor.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Advertisements.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Monetization.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.AppleCore.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.AppleMacosStub.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.AppleStub.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.Codeless.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.SecurityCore.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.SecurityStub.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.Stores.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.WinRTCore.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.WinRTStub.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.Purchasing.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.SpatialTracking.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.TestRunner.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.UI.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityEngine.XR.LegacyInputHelpers.dll.hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0658e2312d6e6469ba2fe438d73bd914" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-081623c1eef0f4e3b818070995bb58e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-151ab47a7c30446eca2fbaf459f14558" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-166f401c359854e35a0be6426616f310" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1931d4fdc137c4947afda0934090b3d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1e88350ca07a64324b0778874e152637" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-23d2db94d751a40a587ec32204594543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2408246a8e2294b8ab5a8ce6a20a43c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-26237d2a73bd74ade89fe56bd0865b1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-27a2eb72cdc5242f28c4982eca9d602d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-35786f7b69c0a40b1971716cdd2aa17c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-372ceb611d0214aed9952ba222b2ab3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-39589a15ff2414f449e6307d70bb88d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3a2c9383bf6144eb5953bc0c1c529edf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3fdd02dd28df847e0b81f0e86b4fd7db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4915d8a86a77745688077a1e1b3004ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-615711ec1c964464d91e7b38cf28ccf1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-66683e59d73c94c549aef3c8a91781b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-69781dc35b9cc4401a6822feee312901" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6b289e2088b284a0b9704f30acde2bed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6f1018361d6394141be04c020340871a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-70d85da58bbf04398a3ef72845b7e965" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-742a48d5a77064a57a2f9e2bbfdc2317" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-932093a6a63c748408fc7bdc14388478" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a731168084b5d40ee9b7b57f8a588476" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b47f39b8e2cc941bd85ccb0a2a1500cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b5cb2d49113474496a25586233ab68b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b5ce5b97747fd435fa1c3665fa588082" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-be732fd00489e49cfae78428d35f4fb6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c426270634f9e4499ab7d65672d58c0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c74f3509a7fc140589c114db4ab63424" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ce9b00332563d428aa0bb58a581f56e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d2e78a18b0c924e1bb7fa8835ca72ee4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d5623cf90c6184a22a996f3441ef3c72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-dad4f9543cef0475aaaca3aa8249a054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-db4b025d70f1841f4854c19d97d4121f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f3470fff57aaa461bbf587e0fe59e997" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f3dd4184bb0024e7ea7aca29dfee78c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f74ec5b5388204e55b83d906668cb8dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -847,6 +151,12 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -876,7 +186,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635532066128</updated>
-      <workItem from="1635532074831" duration="353000" />
+      <workItem from="1635532074831" duration="589000" />
+      <workItem from="1635733582944" duration="1475000" />
+      <workItem from="1635830474996" duration="1472000" />
     </task>
     <servers />
   </component>

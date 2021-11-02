@@ -680,9 +680,15 @@ MonoBehaviour:
   coolOffTime: 0
   currentTetriminoFalling: {fileID: 0}
   nextTetriminoFalling: {fileID: 0}
+  stage: 1
+  rowsStage1: 1
+  rowsStage2: 2
+  rowsStage3: 3
   hud_score: {fileID: 1416171072}
   hud_level: {fileID: 1909008416}
   hud_rows: {fileID: 351866449}
+  hud_stageRows: {fileID: 679824945}
+  hud_stage: {fileID: 1279314629}
   NextTetrimino: {fileID: 0}
   PreviewTetrimino: {fileID: 0}
   gameStarted: 0
@@ -9903,7 +9909,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1092339099
 RectTransform:
   m_ObjectHideFlags: 0

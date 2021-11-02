@@ -59,12 +59,12 @@
      <Compile Include="Assets\Scripts\GameMaster.cs" />
      <Compile Include="Assets\Scripts\I.cs" />
      <Compile Include="Assets\Scripts\SceneSwitcher.cs" />
+     <Compile Include="Assets\Scripts\AutomaticUIAnchoringEditor.cs" />
      <Compile Include="Assets\Scripts\Z.cs" />
      <Compile Include="Assets\Scripts\T.cs" />
      <Compile Include="Assets\Scripts\GameArea.cs" />
      <Compile Include="Assets\Scripts\J.cs" />
      <Compile Include="Assets\Scripts\L.cs" />
-     <Compile Include="Assets\Scripts\AutomaticUIAnchoringEditor.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
