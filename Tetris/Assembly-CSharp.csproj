@@ -65,6 +65,13 @@
      <Compile Include="Assets\Scripts\GameArea.cs" />
      <Compile Include="Assets\Scripts\J.cs" />
      <Compile Include="Assets\Scripts\L.cs" />
+     <Compile Include="Assets\PinwheelFantasyEffect\Script\FairyDustRandomPosition.cs" />
+     <Compile Include="Assets\PinwheelFantasyEffect\Script\Spin.cs" />
+     <Compile Include="Assets\PinwheelFantasyEffect\Script\Test.cs" />
+     <Compile Include="Assets\PinwheelFantasyEffect\Script\FairyMeteorAddForceDemo.cs" />
+     <Compile Include="Assets\PinwheelFantasyEffect\Script\Fireball.cs" />
+     <Compile Include="Assets\PinwheelFantasyEffect\Script\DemoManager.cs" />
+     <None Include="Assets\PinwheelFantasyEffect\README.txt" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
