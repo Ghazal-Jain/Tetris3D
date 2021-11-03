@@ -185,6 +185,7 @@ public class GameMaster : MonoBehaviour
         {
             stage3Effect.SetActive(true);
            //You Win
+           StartCoroutine(GameWin());
         }
 
         if (stage == 1)
@@ -234,8 +235,8 @@ public class GameMaster : MonoBehaviour
             speed = 0.8f;
         if (level == 3)
             speed = 0.6f;
-        // if (level == 4)
-        //     speed = 0.5f;
+        if (level == 4)
+            speed = 0.5f;
         // if (level == 5)
         //     speed = 0.4f;
         // if (level == 6)
@@ -252,6 +253,13 @@ public class GameMaster : MonoBehaviour
     {
         SceneManager.LoadScene("GameOver");
 
+    }
+
+    IEnumerator GameWin()
+    {
+        yield return new WaitForSeconds(1.5f);
+        //SceneManager.UnloadSceneAsync("GamePlay");
+        SceneManager.LoadScene("GameOver_WIN");
     }
 }
 

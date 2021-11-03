@@ -16,7 +16,7 @@ public class Tetrimino : MonoBehaviour
     [Tooltip("Used for rotation")]
     public GameObject Pivot;
     public static int width = 10;
-    public static int height = 20;
+    public  int height = 20;
 
     [SerializeField]
     public GameObject[] cubes = new GameObject[4];
@@ -43,7 +43,7 @@ public class Tetrimino : MonoBehaviour
 
 
 
-    public static bool IsToRight(Vector3 pos)
+    public  bool IsToRight(Vector3 pos)
     {
         return ((int)pos.x >= 0 && (int)pos.x > width - 1 && (int)pos.y >= 0);
     }
@@ -69,7 +69,7 @@ public class Tetrimino : MonoBehaviour
         }
     }
 
-    public static void Delete(int y)
+    public  void Delete(int y)
     {
         for (int x = 0; x < width; x++)
         {
@@ -77,7 +77,7 @@ public class Tetrimino : MonoBehaviour
             GameMaster.grid[x, y] = null;
         }
     }
-    public static bool IsFull(int y)
+    public  bool IsFull(int y)
     {
         for (int x = 0; x < width; x++)
             if (GameMaster.grid[x, y] == null)
@@ -119,7 +119,7 @@ public class Tetrimino : MonoBehaviour
         //UpdateGrid();
     }
 
-    public static void RowDown(int y)
+    public  void RowDown(int y)
     {
         for (int x = 0; x < width; x++)
         {
@@ -132,7 +132,7 @@ public class Tetrimino : MonoBehaviour
         }
     }
 
-    public static void RowDownAll(int y)
+    public  void RowDownAll(int y)
     {
         for (int i = y; i < height; i++)
             RowDown(i);
