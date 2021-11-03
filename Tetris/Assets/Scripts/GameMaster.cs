@@ -37,8 +37,11 @@ public class GameMaster : MonoBehaviour
     public Text hud_rows;
     public Text hud_stageRows;
     public Text hud_stage;
-    
-    [Header("Audio")]
+
+    [Header("Particle Effects")] 
+    public GameObject stage1Effect;
+    public GameObject stage2Effect;
+    public GameObject stage3Effect;
     
 
     [HideInInspector]
@@ -169,15 +172,18 @@ public class GameMaster : MonoBehaviour
 
         if (rows >= rowsStage1)
         {
+            stage1Effect.SetActive(true);
             stage = 2;
             
         }
         if (rows >= rowsStage1+rowsStage2)
         {
+            stage2Effect.SetActive(true);
             stage = 3;
         }
         if (rows >= rowsStage1+rowsStage2+rowsStage3)
         {
+            stage3Effect.SetActive(true);
            //You Win
         }
 

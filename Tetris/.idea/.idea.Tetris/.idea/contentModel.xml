@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="PinwheelFantasyEffect" t="Include">
+          <e p="README.txt" t="Include" />
+          <e p="Script" t="Include">
+            <e p="DemoManager.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CompileLogger.cs" t="Include" />
+              <e p="PolarisV2AdsWindow.cs" t="Include" />
+            </e>
+            <e p="FairyDustRandomPosition.cs" t="Include" />
+            <e p="FairyMeteorAddForceDemo.cs" t="Include" />
+            <e p="Fireball.cs" t="Include" />
+            <e p="Spin.cs" t="Include" />
+            <e p="Test.cs" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="AutomaticUIAnchoringEditor.cs" t="Include" />
           <e p="GameArea.cs" t="Include" />
